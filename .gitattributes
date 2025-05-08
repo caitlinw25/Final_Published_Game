@@ -1,2 +1,4 @@
 Webb_Git_Game.data filter=lfs diff=lfs merge=lfs -text
 Webb_Git_Game.wasm filter=lfs diff=lfs merge=lfs -text
+Git_Game_Files.data filter=lfs diff=lfs merge=lfs -text
+Git_Game_Files.wasm filter=lfs diff=lfs merge=lfs -text
